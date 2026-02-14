@@ -10,5 +10,3 @@ SHIPPING_HOST: shipping-dev.daws20s.online
 RABBITMQ_HOST: rabbitmq-dev.daws20s.online
 PAYMENT_HOST: payment-dev.daws20s.online
 
-MONGODB_HOST: mongodb-dev.daws20s.online
-REDIS_HOST: redis-dev.daws20s.online

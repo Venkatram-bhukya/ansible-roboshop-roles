@@ -1,2 +1,0 @@
-Environment=MONGO=true
-Environment=MONGO_URL=mongodb://{{ MONGODB_HOST }}:27017/catalogue
